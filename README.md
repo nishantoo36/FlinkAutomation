@@ -41,7 +41,6 @@ A page class typically should contain all the elements that are present on the p
 2.Create the test class which class the methods of GoogleSearchPage
 
 ```
-@Test(testName = "Google search test", description = "Test description")
 public class GoogleSearchTest extends CommonPreAndPostConditions {
 	@Test
 	public void googleSearchTest() {
