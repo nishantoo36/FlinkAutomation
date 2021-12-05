@@ -79,8 +79,10 @@ Key Points:
 4. Also, you can add support for other browser too.
 5. As of now test data is static and taken from constant java file. This also we can change and take it from command line or from property file.
 ---
+TestCase:
 ---
-TestCase: E2E test case is written in <b>"src/test/e2eCase.txt"</b>.
+ E2E test case is written in <b>"src/test/e2eCase.txt"</b>.
+---
 
 
 >For any query or suggestions please do comment or mail @ pnishant90@gmail.com 
