@@ -1,0 +1,9 @@
+1. Open home page "https://weathershopper.pythonanywhere.com/"
+2. Click on "Buy moisturizers" button
+3. Add any product in cart by clicking on "Add" button and make sure that in cart 1 product is added
+4. Click "Cart item" button and make sure it navigates to view cart page and verify the details is as per the expectation
+5. Click on "Pay with card" and verify that on submit button respective amount is appear.
+6. Enter all required detail
+    Email : "test@test.com" , Card number : "4263 9826 4026 9299" End date : "02/2023" CVV : "837".
+    Note : Other card details you can get from "https://support.bluesnap.com/docs/test-credit-card-numbers" for testing
+7. Click on submit and verify that after that "Your payment was successful. You should receive a follow-up call from our sales team." with success screen should appear

@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="2" verbose="1" name="Flicks" annotations="JDK" parallel = "methods">
+    <listeners>
+        <listener class-name="com.flink.utility.reportsutility.TestListener"/>
+    </listeners>
+    <test name="ChromeTest">
+        <parameter name="browser" value="Chrome" />
+        <classes>
+            <class name="TestCaseForAddToCart"/>
+        </classes>
+    </test>
+    <test name="FirefoxTest">
+        <parameter name="browser" value="Safari" />
+        <classes>
+            <class name="TestCaseForAddToCart"/>
+        </classes>
+    </test>
+</suite>
