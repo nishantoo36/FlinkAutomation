@@ -78,6 +78,10 @@ Key Points:
 2. Always when you page change the last method of that should return object of next page class.
 3. This test is running right now on Chrome and Safari(Note: To run of safari need to enable Develop > Allow Remote Automation)
 4. Also, you can add support for other browser too.
+5. As of now test data is static and taken from constant java file. This also we can change and take it from command line or from property file.
 ---
+---
+TestCase: E2E test case is written in <b>"src/test/e2eCase.txt"</b>.
+
 
 >For any query or suggestions please do comment or mail @ pnishant90@gmail.com 
