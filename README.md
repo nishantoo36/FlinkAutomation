@@ -81,7 +81,7 @@ Key Points:
 ---
 TestCase:
 ---
- E2E test case is written in <b>"src/test/e2eCase.txt"</b>.
+* E2E test case is written in <b>"src/test/e2eCase.txt"</b>.
 ---
 
 
