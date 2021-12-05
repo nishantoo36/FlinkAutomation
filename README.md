@@ -42,7 +42,7 @@ A page class typically should contain all the elements that are present on the p
 
 ```
 @Test(testName = "Google search test", description = "Test description")
-public class GoogleSearchTest extends BaseTest {
+public class GoogleSearchTest extends CommonPreAndPostConditions {
 	@Test
 	public void googleSearchTest() {
 		GooglePage googlePage = new GooglePage();
