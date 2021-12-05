@@ -10,7 +10,7 @@
             <class name="TestCaseForAddToCart"/>
         </classes>
     </test>
-    <test name="FirefoxTest">
+    <test name="SafariTest">
         <parameter name="browser" value="Safari" />
         <classes>
             <class name="TestCaseForAddToCart"/>

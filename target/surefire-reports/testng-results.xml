@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Home page open successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Opening Sunscreen product list page
+]]>
+    </line>
+    <line>
+      <![CDATA[Product List page open successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Adding Spf30 and Spf50 least price product
+]]>
+    </line>
+    <line>
+      <![CDATA[Spf30 and Spf50 least price product added successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Click on Cart button
+]]>
+    </line>
+    <line>
+      <![CDATA[Card details page open successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Click on Pay with card button
+]]>
+    </line>
+    <line>
+      <![CDATA[Pop-up for entering card details appeared successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[ entering card details
+]]>
+    </line>
+    <line>
+      <![CDATA[Card details entering successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Submitting card details
+]]>
+    </line>
+    <line>
+      <![CDATA[Submitting card details successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Confirmation page appear successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser
+]]>
+    </line>
+    <line>
+      <![CDATA[Home page open successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Opening Moisturize product list page
+]]>
+    </line>
+    <line>
+      <![CDATA[Product List page open successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Adding almond and aloe least price product
+]]>
+    </line>
+    <line>
+      <![CDATA[Almond and aloe least price product added successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Click on Cart button
+]]>
+    </line>
+    <line>
+      <![CDATA[Card details page open successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Click on Pay with card button
+]]>
+    </line>
+    <line>
+      <![CDATA[Pop-up for entering card details appeared successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[ entering card details
+]]>
+    </line>
+    <line>
+      <![CDATA[Card details entering successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Submitting card details
+]]>
+    </line>
+    <line>
+      <![CDATA[Submitting card details successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Confirmation page appear successfully
+]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Flicks" duration-ms="59007" started-at="2021-12-05T22:04:19 IST" finished-at="2021-12-05T22:05:18 IST">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="19990" started-at="2021-12-05T22:04:19 IST" finished-at="2021-12-05T22:04:39 IST">
+      <class name="TestCaseForAddToCart">
+        <test-method status="PASS" signature="openTheUrl(java.lang.String)[pri:0, instance:TestCaseForAddToCart@754ba872]" name="openTheUrl" is-config="true" duration-ms="5444" started-at="2021-12-05T22:04:19 IST" finished-at="2021-12-05T22:04:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTheUrl -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method, java.lang.String)[pri:0, instance:TestCaseForAddToCart@754ba872]" name="startTest" is-config="true" duration-ms="82" started-at="2021-12-05T22:04:24 IST" finished-at="2021-12-05T22:04:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCaseForAddToCart.verifyEToEString() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="verifyEToEString()[pri:0, instance:TestCaseForAddToCart@754ba872]" name="verifyEToEString" duration-ms="13344" started-at="2021-12-05T22:04:24 IST" finished-at="2021-12-05T22:04:38 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page open successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Opening Sunscreen product list page
+]]>
+            </line>
+            <line>
+              <![CDATA[Product List page open successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Adding Spf30 and Spf50 least price product
+]]>
+            </line>
+            <line>
+              <![CDATA[Spf30 and Spf50 least price product added successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Click on Cart button
+]]>
+            </line>
+            <line>
+              <![CDATA[Card details page open successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Click on Pay with card button
+]]>
+            </line>
+            <line>
+              <![CDATA[Pop-up for entering card details appeared successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[ entering card details
+]]>
+            </line>
+            <line>
+              <![CDATA[Card details entering successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Submitting card details
+]]>
+            </line>
+            <line>
+              <![CDATA[Submitting card details successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Confirmation page appear successfully
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEToEString -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCaseForAddToCart@754ba872]" name="closeBrowser" is-config="true" duration-ms="1100" started-at="2021-12-05T22:04:38 IST" finished-at="2021-12-05T22:04:39 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing the browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCaseForAddToCart -->
+    </test> <!-- ChromeTest -->
+    <test name="SafariTest" duration-ms="38846" started-at="2021-12-05T22:04:39 IST" finished-at="2021-12-05T22:05:18 IST">
+      <class name="TestCaseForAddToCart">
+        <test-method status="PASS" signature="openTheUrl(java.lang.String)[pri:0, instance:TestCaseForAddToCart@490ab905]" name="openTheUrl" is-config="true" duration-ms="25817" started-at="2021-12-05T22:04:39 IST" finished-at="2021-12-05T22:05:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTheUrl -->
+        <test-method status="PASS" signature="verifyEToEString()[pri:0, instance:TestCaseForAddToCart@490ab905]" name="verifyEToEString" duration-ms="12970" started-at="2021-12-05T22:05:05 IST" finished-at="2021-12-05T22:05:18 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page open successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Opening Moisturize product list page
+]]>
+            </line>
+            <line>
+              <![CDATA[Product List page open successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Adding almond and aloe least price product
+]]>
+            </line>
+            <line>
+              <![CDATA[Almond and aloe least price product added successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Click on Cart button
+]]>
+            </line>
+            <line>
+              <![CDATA[Card details page open successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Click on Pay with card button
+]]>
+            </line>
+            <line>
+              <![CDATA[Pop-up for entering card details appeared successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[ entering card details
+]]>
+            </line>
+            <line>
+              <![CDATA[Card details entering successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Submitting card details
+]]>
+            </line>
+            <line>
+              <![CDATA[Submitting card details successfully
+]]>
+            </line>
+            <line>
+              <![CDATA[Confirmation page appear successfully
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEToEString -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method, java.lang.String)[pri:0, instance:TestCaseForAddToCart@490ab905]" name="startTest" is-config="true" duration-ms="0" started-at="2021-12-05T22:05:05 IST" finished-at="2021-12-05T22:05:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCaseForAddToCart.verifyEToEString() throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCaseForAddToCart@490ab905]" name="closeBrowser" is-config="true" duration-ms="58" started-at="2021-12-05T22:05:18 IST" finished-at="2021-12-05T22:05:18 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing the browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCaseForAddToCart -->
+    </test> <!-- SafariTest -->
+  </suite> <!-- Flicks -->
+</testng-results>
